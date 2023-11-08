@@ -4,4 +4,6 @@ I've developed a Minesweeper solver in C# that's tailored for quick and efficien
 
 Through these simulations, my solver estimates the most probable locations for mines when faced with ambiguity. This method allows me to combine a risk-free approach with a calculated probabilistic technique to solve Minesweeper puzzles very quickly and with a high level of success.
 
+[Watch it in action](https://www.youtube.com/watch?v=sss7CKV68Ss)
+
 ![Imgur](https://imgur.com/3396BTO.jpg)
